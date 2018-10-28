@@ -1,0 +1,28 @@
+{
+  "name": "ttag.macro",
+  "version": "1.4.0",
+  "description": "tiny wrapper around babel-plugin-ttag for macro usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttag-org/ttag.macro.git"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "javascript",
+    "localization"
+  ],
+  "author": "alexmost1989@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttag-org/ttag.macro/issues"
+  },
+  "homepage": "https://github.com/ttag-org/ttag.macro#readme",
+  "dependencies": {
+    "babel-plugin-ttag": "^1.4.0"
+  }
+}
