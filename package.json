@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ttag-org/ttag.macro#readme",
   "dependencies": {
-    "babel-plugin-ttag": "^1.4.0"
+    "babel-plugin-ttag": "1.4.1"
   }
 }
