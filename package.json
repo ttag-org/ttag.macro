@@ -1,6 +1,6 @@
 {
   "name": "ttag.macro",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "description": "tiny wrapper around babel-plugin-ttag for macro usage",
   "main": "index.js",
   "scripts": {
